@@ -16,7 +16,7 @@ Building practical AI products that connect intelligent models with real busines
 
 ### What I Do
 
-I build and ship AI-powered software — from agentic workflows and knowledge assistants to voice experiences and full-stack applications. I focus on reliable engineering, useful integrations and maintainable delivery.
+I build and ship AI-powered software - from agentic workflows and knowledge assistants to voice experiences and full-stack applications. I focus on reliable engineering, useful integrations and maintainable delivery.
 
 | **AI Agents** | **RAG & Knowledge AI** | **Voice & Automation** |
 |:---:|:---:|:---:|
@@ -54,10 +54,10 @@ I build and ship AI-powered software — from agentic workflows and knowledge as
 
 A few examples from my client portfolio. Client code is private; see [my Upwork profile](https://www.upwork.com/freelancers/~0160330190448396c9) for portfolio details.
 
-- **CanoHealth** — AI voice agent for a healthcare provider.
-- **Dental Clinic Appointment AI** — AI-assisted appointment booking.
-- **POD Personalization Platform** — Full-stack e-commerce automation.
-- **Reputation Management SaaS** — AI-enabled reputation management and local SEO.
+- **CanoHealth** - AI voice agent for a healthcare provider.
+- **Dental Clinic Appointment AI** - AI-assisted appointment booking.
+- **POD Personalization Platform** - Full-stack e-commerce automation.
+- **Reputation Management SaaS** - AI-enabled reputation management and local SEO.
 
 ### Background
 
