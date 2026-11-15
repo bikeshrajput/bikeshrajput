@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&text=Bikesh%20Rajput&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=AI%20Agent%20%26%20RAG%20Developer&descSize=20&descAlignY=60&descColor=8b949e" alt="Bikesh Rajput - AI Agent and RAG Developer" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&text=Bikesh%20Rajput&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=AI%20Agent%20%26%20RAG%20Developer&descSize=20&descAlignY=60&descColor=8b949e" alt="Bikesh Rajput - AI Agent and RAG Developer" width="100%" /> -->
 
 <a href="https://github.com/bikeshrajput"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+agents+%26+multi-agent+workflows;RAG+systems+and+GraphRAG;Voice+and+multimodal+AI;Full-stack+AI+apps+in+production" alt="AI agents, RAG, voice AI, full-stack AI" /></a>
 
