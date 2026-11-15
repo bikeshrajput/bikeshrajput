@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bikesh Rajput
+<img src="assets/profile-banner.svg" alt="Bikesh Rajput — Senior Software and AI Engineer" width="100%" />
 
 **AI Engineer · Agentic Systems · RAG · Full-Stack Development**
 
