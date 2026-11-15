@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2020" height="779" viewBox="0 0 2020 779" role="img" aria-labelledby="title desc">
+<title id="title">Bikesh Rajput — Senior Software and AI Engineer</title>
+<desc id="desc">Professional portfolio banner highlighting AI agents, RAG systems, voice AI and full-stack engineering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".58" stop-color="#081b35"/><stop offset="1" stop-color="#030914"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#0878e8" stop-opacity=".34"/><stop offset="1" stop-color="#0878e8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#1e4b7a" stroke-opacity=".22" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="34"/></filter>
+</defs>
+<rect width="2020" height="779" rx="28" fill="url(#bg)"/>
+<rect width="2020" height="779" rx="28" fill="url(#grid)"/>
+<circle cx="1710" cy="330" r="420" fill="url(#glow)" filter="url(#soft)"/>
+<path d="M0 610C340 520 560 690 900 600S1510 520 2020 620V779H0Z" fill="#0b2b50" opacity=".42"/>
+<path d="M0 610C340 520 560 690 900 600S1510 520 2020 620" fill="none" stroke="#1478d4" stroke-opacity=".5" stroke-width="2"/>
+<g fill="none" stroke="#1788e8" stroke-opacity=".48" stroke-width="2">
+ <path d="M1430 100L1535 170L1640 110L1750 190L1860 125L1970 205M1450 310L1560 250L1660 330L1770 260L1880 350L2000 290M1500 490L1610 420L1720 500L1830 430L1940 510"/>
+ <path d="M1535 170L1560 250L1530 390L1610 420M1640 110L1660 330L1720 500M1750 190L1770 260L1830 430M1860 125L1880 350L1940 510"/>
+</g>
+<g fill="#38bdf8"><circle cx="1535" cy="170" r="5"/><circle cx="1640" cy="110" r="5"/><circle cx="1750" cy="190" r="5"/><circle cx="1860" cy="125" r="5"/><circle cx="1560" cy="250" r="5"/><circle cx="1660" cy="330" r="5"/><circle cx="1770" cy="260" r="5"/><circle cx="1880" cy="350" r="5"/><circle cx="1610" cy="420" r="5"/><circle cx="1720" cy="500" r="5"/><circle cx="1830" cy="430" r="5"/></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="112" y="180" fill="#f8fafc" font-size="90" font-weight="750" letter-spacing="-2">Bikesh <tspan fill="#38bdf8">Rajput</tspan></text>
+ <rect x="116" y="211" width="760" height="3" rx="2" fill="url(#blue)"/>
+ <text x="116" y="278" fill="#dbeafe" font-size="39" font-weight="550">Senior Software &amp; AI Engineer</text>
+ <text x="116" y="340" fill="#7dd3fc" font-size="27" font-weight="650">5+ YEARS EXPERIENCE</text>
+ <text x="116" y="414" fill="#e2e8f0" font-size="34" font-weight="500">Building intelligent products with AI agents, RAG</text>
+ <text x="116" y="462" fill="#e2e8f0" font-size="34" font-weight="500">&amp; modern full-stack engineering.</text>
+ <g transform="translate(116 540)">
+  <rect width="270" height="76" rx="15" fill="#0b2949" stroke="#2563eb" stroke-width="2"/>
+  <text x="135" y="47" fill="#bfdbfe" text-anchor="middle" font-size="25" font-weight="650">AI AGENTS</text>
+  <rect x="292" width="230" height="76" rx="15" fill="#0b2949" stroke="#2563eb" stroke-width="2"/>
+  <text x="407" y="47" fill="#bfdbfe" text-anchor="middle" font-size="25" font-weight="650">RAG SYSTEMS</text>
+  <rect x="544" width="230" height="76" rx="15" fill="#0b2949" stroke="#2563eb" stroke-width="2"/>
+  <text x="659" y="47" fill="#bfdbfe" text-anchor="middle" font-size="25" font-weight="650">VOICE AI</text>
+  <rect x="796" width="300" height="76" rx="15" fill="#0b2949" stroke="#2563eb" stroke-width="2"/>
+  <text x="946" y="47" fill="#bfdbfe" text-anchor="middle" font-size="25" font-weight="650">FULL-STACK</text>
+ </g>
+ <text x="116" y="700" fill="#94a3b8" font-size="22" letter-spacing="2">PYTHON  ·  LANGGRAPH  ·  OPENAI  ·  FASTAPI  ·  REACT  ·  AWS</text>
+ <g transform="translate(1540 580)">
+  <rect width="360" height="78" rx="18" fill="#052e1b" stroke="#22c55e" stroke-width="2"/>
+  <text x="180" y="49" fill="#86efac" font-size="25" font-weight="700" text-anchor="middle">AVAILABLE ON UPWORK</text>
+ </g>
+ <text x="1540" y="700" fill="#60a5fa" font-size="22" letter-spacing="3">BUILD  ·  AUTOMATE  ·  SCALE</text>
+</g>
+</svg>
